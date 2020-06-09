@@ -768,38 +768,6 @@
     "allowedPlains": 2
   },
   {
-    "id": 49,
-    "name": "Luggage Bag",
-    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Travelling/luggagebag/luggage_bag.gltf",
-    "model_url": "",
-    "material_url": "",
-    "texture_url": "",
-    "bin_url": "",
-    "scale": 1,
-    "ar_scale": 1,
-    "category": 9,
-    "description": "Travelling Luggage Bag(Black)",
-    "price": 7566,
-    "discount": 10,
-    "allowedPlains": 2
-  },
-  {
-    "id": 50,
-    "name": "Purse",
-    "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Travelling/purse/purse.gltf",
-    "model_url": "",
-    "material_url": "",
-    "texture_url": "",
-    "bin_url": "",
-    "scale": 1,
-    "ar_scale": 1,
-    "category": 9,
-    "description": "Purse",
-    "price": 566,
-    "discount": 10,
-    "allowedPlains": 2
-  },
-  {
     "id": 51,
     "name": "Iphone",
     "gltf_url": "https://raw.githubusercontent.com/srinivas-bekkam/3d-models/master/Electronics/phones_and_accessories/iphone/iphone.gltf",

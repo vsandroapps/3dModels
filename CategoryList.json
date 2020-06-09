@@ -1,6 +1,6 @@
 [
   {
-    "name": "Electronics",
+    "name": "Electronics & Gadgets",
     "id": 1,
     "parentId": -1
   },
@@ -20,22 +20,22 @@
     "parentId": -1
   },
   {
-    "name": "Laptops",
+    "name": "Laptops & Computers",
     "id": 5,
     "parentId": 1
   },
   {
-    "name": "TVs & Music Systems",
+    "name": "Entertainment",
     "id": 6,
     "parentId": 1
   },
   {
-    "name": "Home and Decor",
+    "name": "Home Decoration",
     "id": 7,
     "parentId": -1
   },
   {
-    "name": "Kitchen",
+    "name": "Crockery & Tools",
     "id": 8,
     "parentId": -1
   },
@@ -45,27 +45,27 @@
     "parentId": -1
   },
   {
-    "name": "Phones",
+    "name": "Mobile Phones",
     "id": 10,
     "parentId": 1
   },
   {
-    "name": "Cameras",
+    "name": "Cameras and Lenses",
     "id": 11,
     "parentId": 1
   },
   {
-    "name": "Fruits & Vegetables",
+    "name": "Food and Eatables",
     "id": 12,
     "parentId": -1
   },
   {
-    "name": "Toys",
+    "name": "Children Toys",
     "id": 13,
     "parentId": -1
   },
   {
-    "name": "Vehicles",
+    "name": "Automobiles",
     "id": 14,
     "parentId": -1
   },

@@ -1,0 +1,218 @@
+{
+    "accessors": [
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2742,
+            "max": [
+                0.9954113960266113,
+                0.9985564947128296,
+                0.9995477199554443
+            ],
+            "min": [
+                -0.9929862022399902,
+                -0.9994078278541565,
+                -0.9993528127670288
+            ],
+            "name": "accessor_buffer_Apple.1-Mesh_NORMAL_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 2637,
+            "max": [
+                2741
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_Apple.1-Mesh_1",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2742,
+            "max": [
+                0.032267507165670395,
+                0.07435537129640579,
+                0.06270845234394073
+            ],
+            "min": [
+                -0.036438316106796265,
+                3.5962686162349655e-09,
+                -0.0045415484346449375
+            ],
+            "name": "accessor_buffer_Apple.1-Mesh_POSITION_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 105,
+            "max": [
+                2730
+            ],
+            "min": [
+                20
+            ],
+            "name": "accessor_buffer_Apple.1-Mesh_0",
+            "type": "SCALAR"
+        }
+    ],
+    "asset": {
+        "copyright": "",
+        "generator": "blendergltf v1.2.0",
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 32904,
+            "byteOffset": 0,
+            "byteStride": 12,
+            "name": "bufferView_buffer_Apple.1-Mesh_POSITION_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 32904,
+            "byteOffset": 32904,
+            "byteStride": 12,
+            "name": "bufferView_buffer_Apple.1-Mesh_NORMAL_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 212,
+            "byteOffset": 65808,
+            "name": "bufferView_buffer_Apple.1-Mesh_0",
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5276,
+            "byteOffset": 66020,
+            "name": "bufferView_buffer_Apple.1-Mesh_1",
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 71296,
+            "name": "buffer_apple",
+            "uri": "buffer_apple.bin"
+        }
+    ],
+    "materials": [
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "Mat.7",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.32309645414352417,
+                    0.25402501225471497,
+                    0.06407857686281204,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "Red",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.4894118010997772,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Apple.1-Mesh",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 0,
+                        "POSITION": 2
+                    },
+                    "indices": 3,
+                    "material": 0,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 0,
+                        "POSITION": 2
+                    },
+                    "indices": 1,
+                    "material": 1,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0,
+            "name": "Apple.1",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "extras": {
+                "background_color": [
+                    0.05087608844041824,
+                    0.05087608844041824,
+                    0.05087608844041824
+                ],
+                "frames_per_second": 24
+            },
+            "name": "Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ]
+}

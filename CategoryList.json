@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Electronics",
+    "id": 1,
+    "parentId": -1
+  },
+  {
+    "name": "Furniture",
+    "id": 2,
+    "parentId": -1
+  },
+  {
+    "name": "Gardening",
+    "id": 3,
+    "parentId": -1
+  },
+  {
+    "name": "Others",
+    "id": 4,
+    "parentId": -1
+  },
+  {
+    "name": "Laptops",
+    "id": 5,
+    "parentId": 1
+  },
+  {
+    "name": "TVs & Music Systems",
+    "id": 6,
+    "parentId": 1
+  },
+  {
+    "name": "Home and Decor",
+    "id": 7,
+    "parentId": -1
+  },
+  {
+    "name": "Kitchen",
+    "id": 8,
+    "parentId": -1
+  },
+  {
+    "name": "Travelling",
+    "id": 9,
+    "parentId": -1
+  },
+  {
+    "name": "Phones",
+    "id": 10,
+    "parentId": 1
+  },
+  {
+    "name": "Cameras",
+    "id": 11,
+    "parentId": 1
+  },
+  {
+    "name": "Fruits & Vegetables",
+    "id": 12,
+    "parentId": -1
+  },
+  {
+    "name": "Toys",
+    "id": 13,
+    "parentId": -1
+  },
+  {
+    "name": "Vehicles",
+    "id": 14,
+    "parentId": -1
+  },
+  {
+    "name": "Two Wheelers",
+    "id": 15,
+    "parentId": 14
+  },
+  {
+    "name": "Others",
+    "id": 16,
+    "parentId": -1
+  }
+]

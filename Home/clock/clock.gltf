@@ -1,0 +1,195 @@
+{
+    "accessors": [
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 444,
+            "max": [
+                0.999969482421875,
+                0.999969482421875,
+                0.999847412109375
+            ],
+            "min": [
+                -0.999969482421875,
+                -0.999969482421875,
+                -0.999847412109375
+            ],
+            "name": "accessor_buffer_mesh_m0-PolyPaper20_-353594_NORMAL_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 444,
+            "max": [
+                1.0,
+                0.6117647290229797,
+                0.250980406999588
+            ],
+            "min": [
+                0.007843137718737125,
+                0.007843137718737125,
+                0.007843137718737125
+            ],
+            "name": "accessor_buffer_mesh_m0-PolyPaper20_-353594_COLOR_0_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 612,
+            "max": [
+                443
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_mesh_m0-PolyPaper20_-353594_0",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 444,
+            "max": [
+                0.11411711573600769,
+                0.01189442165195942,
+                0.11877275258302689
+            ],
+            "min": [
+                -0.11410596966743469,
+                -0.007768296170979738,
+                -0.11862955242395401
+            ],
+            "name": "accessor_buffer_mesh_m0-PolyPaper20_-353594_POSITION_0",
+            "type": "VEC3"
+        }
+    ],
+    "asset": {
+        "copyright": "",
+        "generator": "blendergltf v1.2.0",
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 5328,
+            "byteOffset": 0,
+            "byteStride": 12,
+            "name": "bufferView_buffer_mesh_m0-PolyPaper20_-353594_POSITION_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5328,
+            "byteOffset": 5328,
+            "byteStride": 12,
+            "name": "bufferView_buffer_mesh_m0-PolyPaper20_-353594_NORMAL_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5328,
+            "byteOffset": 10656,
+            "byteStride": 12,
+            "name": "bufferView_buffer_mesh_m0-PolyPaper20_-353594_COLOR_0_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 1228,
+            "byteOffset": 15984,
+            "name": "bufferView_buffer_mesh_m0-PolyPaper20_-353594_0",
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 17212,
+            "name": "buffer_clock",
+            "uri": "buffer_clock.bin"
+        }
+    ],
+    "materials": [
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "BlocksPaper_COLOR_0",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.64000004529953,
+                    0.64000004529953,
+                    0.64000004529953,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "mesh_m0-PolyPaper20_-353594",
+            "primitives": [
+                {
+                    "attributes": {
+                        "COLOR_0": 1,
+                        "NORMAL": 0,
+                        "POSITION": 3
+                    },
+                    "indices": 2,
+                    "material": 0,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0,
+            "name": "node_MeshObject-1477125248-PolyPaper20",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "extras": {
+                "background_color": [
+                    0.05087608844041824,
+                    0.05087608844041824,
+                    0.05087608844041824
+                ],
+                "frames_per_second": 24
+            },
+            "name": "Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ]
+}

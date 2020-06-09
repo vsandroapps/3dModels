@@ -1,0 +1,168 @@
+{
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1679,
+            "max": [
+                0.06710466742515564,
+                0.11302760243415833,
+                0.06636162102222443
+            ],
+            "min": [
+                -0.0664878785610199,
+                -5.99782433710061e-05,
+                -0.06621626019477844
+            ],
+            "name": "accessor_buffer_Cabbage_Circle.013-Mesh_POSITION_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 2112,
+            "max": [
+                1678
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_Cabbage_Circle.013-Mesh_0",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1679,
+            "max": [
+                0.9943051934242249,
+                1.0,
+                0.9976152181625366
+            ],
+            "min": [
+                -0.9948589205741882,
+                -1.0,
+                -0.9928569197654724
+            ],
+            "name": "accessor_buffer_Cabbage_Circle.013-Mesh_NORMAL_0",
+            "type": "VEC3"
+        }
+    ],
+    "asset": {
+        "copyright": "",
+        "generator": "blendergltf v1.2.0",
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 20148,
+            "byteOffset": 0,
+            "byteStride": 12,
+            "name": "bufferView_buffer_Cabbage_Circle.013-Mesh_POSITION_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 20148,
+            "byteOffset": 20148,
+            "byteStride": 12,
+            "name": "bufferView_buffer_Cabbage_Circle.013-Mesh_NORMAL_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 4228,
+            "byteOffset": 40296,
+            "name": "bufferView_buffer_Cabbage_Circle.013-Mesh_0",
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 44524,
+            "name": "buffer_cabbage",
+            "uri": "buffer_cabbage.bin"
+        }
+    ],
+    "materials": [
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "8BC34A",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.43607839941978455,
+                    0.6117648482322693,
+                    0.23215679824352264,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Cabbage_Circle.013-Mesh",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 0
+                    },
+                    "indices": 1,
+                    "material": 0,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0,
+            "name": "Cabbage_Circle.013",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "extras": {
+                "background_color": [
+                    0.05087608844041824,
+                    0.05087608844041824,
+                    0.05087608844041824
+                ],
+                "frames_per_second": 24
+            },
+            "name": "Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "accessors": [
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 875,
+            "max": [
+                1.0,
+                0.9976146817207336,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            "name": "accessor_buffer_peach_Roundcube.006-Mesh_NORMAL_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 84,
+            "max": [
+                872
+            ],
+            "min": [
+                1
+            ],
+            "name": "accessor_buffer_peach_Roundcube.006-Mesh_1",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 875,
+            "max": [
+                0.03859695792198181,
+                0.034026339650154114,
+                0.03859695792198181
+            ],
+            "min": [
+                -0.03859695792198181,
+                -0.03859695792198181,
+                -0.03859695792198181
+            ],
+            "name": "accessor_buffer_peach_Roundcube.006-Mesh_POSITION_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 1044,
+            "max": [
+                874
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_peach_Roundcube.006-Mesh_0",
+            "type": "SCALAR"
+        }
+    ],
+    "asset": {
+        "copyright": "",
+        "generator": "blendergltf v1.2.0",
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 10500,
+            "byteOffset": 0,
+            "byteStride": 12,
+            "name": "bufferView_buffer_peach_Roundcube.006-Mesh_POSITION_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 10500,
+            "byteOffset": 10500,
+            "byteStride": 12,
+            "name": "bufferView_buffer_peach_Roundcube.006-Mesh_NORMAL_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 2092,
+            "byteOffset": 21000,
+            "name": "bufferView_buffer_peach_Roundcube.006-Mesh_0",
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 172,
+            "byteOffset": 23092,
+            "name": "bufferView_buffer_peach_Roundcube.006-Mesh_1",
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 23264,
+            "name": "buffer_peach",
+            "uri": "buffer_peach.bin"
+        }
+    ],
+    "materials": [
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "795548.001",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.37960800528526306,
+                    0.26666638255119324,
+                    0.2258824110031128,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "FF5722.001",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.800000011920929,
+                    0.27294081449508667,
+                    0.10666640102863312,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "peach_Roundcube.006-Mesh",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 0,
+                        "POSITION": 2
+                    },
+                    "indices": 3,
+                    "material": 1,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 0,
+                        "POSITION": 2
+                    },
+                    "indices": 1,
+                    "material": 0,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0,
+            "name": "peach_Roundcube.006",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "extras": {
+                "background_color": [
+                    0.05087608844041824,
+                    0.05087608844041824,
+                    0.05087608844041824
+                ],
+                "frames_per_second": 24
+            },
+            "name": "Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ]
+}

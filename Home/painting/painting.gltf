@@ -1,0 +1,318 @@
+{
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 465,
+            "max": [
+                0.09645241498947144,
+                0.006127858068794012,
+                0.13845621049404144
+            ],
+            "min": [
+                -0.10339255630970001,
+                -0.01133448164910078,
+                -0.13398383557796478
+            ],
+            "name": "accessor_buffer_Wall_Art_Classical_Plane-Mesh_POSITION_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 213,
+            "max": [
+                459
+            ],
+            "min": [
+                3
+            ],
+            "name": "accessor_buffer_Wall_Art_Classical_Plane-Mesh_3",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 66,
+            "max": [
+                460
+            ],
+            "min": [
+                1
+            ],
+            "name": "accessor_buffer_Wall_Art_Classical_Plane-Mesh_2",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 63,
+            "max": [
+                464
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_Wall_Art_Classical_Plane-Mesh_0",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 465,
+            "max": [
+                0.9999999403953552,
+                0.9999992251396179,
+                0.9999991655349731
+            ],
+            "min": [
+                -1.0,
+                -0.9999851584434509,
+                -0.9999991655349731
+            ],
+            "name": "accessor_buffer_Wall_Art_Classical_Plane-Mesh_NORMAL_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 153,
+            "max": [
+                463
+            ],
+            "min": [
+                9
+            ],
+            "name": "accessor_buffer_Wall_Art_Classical_Plane-Mesh_1",
+            "type": "SCALAR"
+        }
+    ],
+    "asset": {
+        "copyright": "",
+        "generator": "blendergltf v1.2.0",
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 5580,
+            "byteOffset": 0,
+            "byteStride": 12,
+            "name": "bufferView_buffer_Wall_Art_Classical_Plane-Mesh_POSITION_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5580,
+            "byteOffset": 5580,
+            "byteStride": 12,
+            "name": "bufferView_buffer_Wall_Art_Classical_Plane-Mesh_NORMAL_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 128,
+            "byteOffset": 11160,
+            "name": "bufferView_buffer_Wall_Art_Classical_Plane-Mesh_0",
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 308,
+            "byteOffset": 11288,
+            "name": "bufferView_buffer_Wall_Art_Classical_Plane-Mesh_1",
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 136,
+            "byteOffset": 11596,
+            "name": "bufferView_buffer_Wall_Art_Classical_Plane-Mesh_2",
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 428,
+            "byteOffset": 11732,
+            "name": "bufferView_buffer_Wall_Art_Classical_Plane-Mesh_3",
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 12160,
+            "name": "buffer_painting",
+            "uri": "buffer_painting.bin"
+        }
+    ],
+    "materials": [
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "1A1A1A.001",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.08156879991292953,
+                    0.08156879991292953,
+                    0.08156879991292953,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "4CAF50.001",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.2384312003850937,
+                    0.549019992351532,
+                    0.25098082423210144,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "8BC34A.001",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.43607839941978455,
+                    0.6117648482322693,
+                    0.23215679824352264,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "DD9944.001",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6933335661888123,
+                    0.48000001907348633,
+                    0.2133336067199707,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Wall_Art_Classical_Plane-Mesh",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 4,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 1,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 4,
+                        "POSITION": 0
+                    },
+                    "indices": 5,
+                    "material": 0,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 4,
+                        "POSITION": 0
+                    },
+                    "indices": 2,
+                    "material": 2,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 4,
+                        "POSITION": 0
+                    },
+                    "indices": 1,
+                    "material": 3,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0,
+            "name": "Wall_Art_Classical_Plane",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "extras": {
+                "background_color": [
+                    0.05087608844041824,
+                    0.05087608844041824,
+                    0.05087608844041824
+                ],
+                "frames_per_second": 24
+            },
+            "name": "Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ]
+}

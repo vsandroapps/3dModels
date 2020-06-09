@@ -1,0 +1,218 @@
+{
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1374,
+            "max": [
+                0.16399523615837097,
+                0.5915886163711548,
+                0.020679203793406487
+            ],
+            "min": [
+                -0.162870392203331,
+                -2.7516254164083875e-08,
+                -0.13420315086841583
+            ],
+            "name": "accessor_buffer_Purse_Circle.002-Mesh_POSITION_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1374,
+            "max": [
+                0.9999493360519409,
+                1.0,
+                0.9999493360519409
+            ],
+            "min": [
+                -0.9999493360519409,
+                -1.0,
+                -0.9999492764472961
+            ],
+            "name": "accessor_buffer_Purse_Circle.002-Mesh_NORMAL_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 720,
+            "max": [
+                1370
+            ],
+            "min": [
+                2
+            ],
+            "name": "accessor_buffer_Purse_Circle.002-Mesh_0",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 840,
+            "max": [
+                1373
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_Purse_Circle.002-Mesh_1",
+            "type": "SCALAR"
+        }
+    ],
+    "asset": {
+        "copyright": "",
+        "generator": "blendergltf v1.2.0",
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 16488,
+            "byteOffset": 0,
+            "byteStride": 12,
+            "name": "bufferView_buffer_Purse_Circle.002-Mesh_POSITION_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 16488,
+            "byteOffset": 16488,
+            "byteStride": 12,
+            "name": "bufferView_buffer_Purse_Circle.002-Mesh_NORMAL_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 1444,
+            "byteOffset": 32976,
+            "name": "bufferView_buffer_Purse_Circle.002-Mesh_0",
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 1684,
+            "byteOffset": 34420,
+            "name": "bufferView_buffer_Purse_Circle.002-Mesh_1",
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 36104,
+            "name": "buffer_purse",
+            "uri": "buffer_purse.bin"
+        }
+    ],
+    "materials": [
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "1A1A1A.001",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.08156879991292953,
+                    0.08156879991292953,
+                    0.08156879991292953,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "FFEB3B.001",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.800000011920929,
+                    0.7372552156448364,
+                    0.18509839475154877,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Purse_Circle.002-Mesh",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 2,
+                    "material": 1,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0,
+            "name": "Purse_Circle.002",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "extras": {
+                "background_color": [
+                    0.05087608844041824,
+                    0.05087608844041824,
+                    0.05087608844041824
+                ],
+                "frames_per_second": 24
+            },
+            "name": "Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ]
+}

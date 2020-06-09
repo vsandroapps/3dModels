@@ -1,0 +1,193 @@
+{
+    "accessors": [
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 470,
+            "max": [
+                0.99197918176651,
+                1.0,
+                0.9902448654174805
+            ],
+            "min": [
+                -0.9919790625572205,
+                -1.0,
+                -0.9902448654174805
+            ],
+            "name": "accessor_buffer_stool_NORMAL_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 470,
+            "max": [
+                0.18004100024700165,
+                0.48761749267578125,
+                0.18004097044467926
+            ],
+            "min": [
+                -0.18004100024700165,
+                -0.0030898451805114746,
+                -0.18004103004932404
+            ],
+            "name": "accessor_buffer_stool_POSITION_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 696,
+            "max": [
+                469
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_stool_0",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 470,
+            "max": [
+                0.875,
+                1.0
+            ],
+            "min": [
+                0.125,
+                0.0
+            ],
+            "name": "accessor_buffer_stool_TEXCOORD_0_0",
+            "type": "VEC2"
+        }
+    ],
+    "asset": {
+        "copyright": "",
+        "generator": "blendergltf v1.2.0",
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 5640,
+            "byteOffset": 0,
+            "byteStride": 12,
+            "name": "bufferView_buffer_stool_POSITION_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5640,
+            "byteOffset": 5640,
+            "byteStride": 12,
+            "name": "bufferView_buffer_stool_NORMAL_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 3760,
+            "byteOffset": 11280,
+            "byteStride": 8,
+            "name": "bufferView_buffer_stool_TEXCOORD_0_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 1396,
+            "byteOffset": 15040,
+            "name": "bufferView_buffer_stool_0",
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 16436,
+            "name": "buffer_stool",
+            "uri": "buffer_stool.bin"
+        }
+    ],
+    "materials": [
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "lambert2SG",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.23000000417232513,
+                    0.03999999910593033,
+                    0.009999999776482582,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "stool",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 0,
+                        "POSITION": 1,
+                        "TEXCOORD_0": 3
+                    },
+                    "indices": 2,
+                    "material": 0,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0,
+            "name": "stool",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "extras": {
+                "background_color": [
+                    0.05087608844041824,
+                    0.05087608844041824,
+                    0.05087608844041824
+                ],
+                "frames_per_second": 24
+            },
+            "name": "Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ]
+}

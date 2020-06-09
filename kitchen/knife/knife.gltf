@@ -1,0 +1,268 @@
+{
+    "accessors": [
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 408,
+            "max": [
+                459
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_Knife_Circle.028-Mesh_1",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 78,
+            "max": [
+                456
+            ],
+            "min": [
+                3
+            ],
+            "name": "accessor_buffer_Knife_Circle.028-Mesh_0",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 460,
+            "max": [
+                -5.230569513514638e-05,
+                0.007316247560083866,
+                0.023446762934327126
+            ],
+            "min": [
+                -0.3021761476993561,
+                -0.007496359292417765,
+                -0.021157514303922653
+            ],
+            "name": "accessor_buffer_Knife_Circle.028-Mesh_POSITION_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 48,
+            "max": [
+                437
+            ],
+            "min": [
+                7
+            ],
+            "name": "accessor_buffer_Knife_Circle.028-Mesh_2",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 460,
+            "max": [
+                0.9999989867210388,
+                0.9994212985038757,
+                0.933426558971405
+            ],
+            "min": [
+                -0.9999989867210388,
+                -0.9994316697120667,
+                -0.9921579957008362
+            ],
+            "name": "accessor_buffer_Knife_Circle.028-Mesh_NORMAL_0",
+            "type": "VEC3"
+        }
+    ],
+    "asset": {
+        "copyright": "",
+        "generator": "blendergltf v1.2.0",
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 5520,
+            "byteOffset": 0,
+            "byteStride": 12,
+            "name": "bufferView_buffer_Knife_Circle.028-Mesh_POSITION_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5520,
+            "byteOffset": 5520,
+            "byteStride": 12,
+            "name": "bufferView_buffer_Knife_Circle.028-Mesh_NORMAL_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 160,
+            "byteOffset": 11040,
+            "name": "bufferView_buffer_Knife_Circle.028-Mesh_0",
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 820,
+            "byteOffset": 11200,
+            "name": "bufferView_buffer_Knife_Circle.028-Mesh_1",
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 100,
+            "byteOffset": 12020,
+            "name": "bufferView_buffer_Knife_Circle.028-Mesh_2",
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 12120,
+            "name": "buffer_knife",
+            "uri": "buffer_knife.bin"
+        }
+    ],
+    "materials": [
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "455A64.001",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.216470405459404,
+                    0.2823528051376343,
+                    0.3137255907058716,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "78909C.001",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.3764704167842865,
+                    0.4517648220062256,
+                    0.4894120395183563,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "FF5722.001",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.800000011920929,
+                    0.27294081449508667,
+                    0.10666640102863312,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Knife_Circle.028-Mesh",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 4,
+                        "POSITION": 2
+                    },
+                    "indices": 1,
+                    "material": 0,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 4,
+                        "POSITION": 2
+                    },
+                    "indices": 0,
+                    "material": 2,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 4,
+                        "POSITION": 2
+                    },
+                    "indices": 3,
+                    "material": 1,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0,
+            "name": "Knife_Circle.028",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "extras": {
+                "background_color": [
+                    0.05,
+                    0.05,
+                    0.05
+                ],
+                "frames_per_second": 24
+            },
+            "name": "scene-0",
+            "nodes": [
+                0
+            ]
+        }
+    ]
+}

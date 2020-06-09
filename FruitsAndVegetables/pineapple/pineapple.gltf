@@ -1,0 +1,218 @@
+{
+    "accessors": [
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 5730,
+            "max": [
+                0.9993879795074463,
+                1.0,
+                0.9999532103538513
+            ],
+            "min": [
+                -0.999538242816925,
+                -0.9999791383743286,
+                -0.9988677501678467
+            ],
+            "name": "accessor_buffer_pineapple_Circle.004-Mesh_NORMAL_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 2976,
+            "max": [
+                5729
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_pineapple_Circle.004-Mesh_0",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 4608,
+            "max": [
+                5727
+            ],
+            "min": [
+                1
+            ],
+            "name": "accessor_buffer_pineapple_Circle.004-Mesh_1",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 5730,
+            "max": [
+                0.06566471606492996,
+                0.25708162784576416,
+                0.06567245721817017
+            ],
+            "min": [
+                -0.06566942483186722,
+                -0.013013800606131554,
+                -0.06566698849201202
+            ],
+            "name": "accessor_buffer_pineapple_Circle.004-Mesh_POSITION_0",
+            "type": "VEC3"
+        }
+    ],
+    "asset": {
+        "copyright": "",
+        "generator": "blendergltf v1.2.0",
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 68760,
+            "byteOffset": 0,
+            "byteStride": 12,
+            "name": "bufferView_buffer_pineapple_Circle.004-Mesh_POSITION_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 68760,
+            "byteOffset": 68760,
+            "byteStride": 12,
+            "name": "bufferView_buffer_pineapple_Circle.004-Mesh_NORMAL_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5956,
+            "byteOffset": 137520,
+            "name": "bufferView_buffer_pineapple_Circle.004-Mesh_0",
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 9220,
+            "byteOffset": 143476,
+            "name": "bufferView_buffer_pineapple_Circle.004-Mesh_1",
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 152696,
+            "name": "buffer_pineapple",
+            "uri": "buffer_pineapple.bin"
+        }
+    ],
+    "materials": [
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "4CAF50",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.2384312003850937,
+                    0.549019992351532,
+                    0.25098082423210144,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "DD9944",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6933335661888123,
+                    0.48000001907348633,
+                    0.2133336067199707,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "pineapple_Circle.004-Mesh",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 0,
+                        "POSITION": 3
+                    },
+                    "indices": 1,
+                    "material": 1,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 0,
+                        "POSITION": 3
+                    },
+                    "indices": 2,
+                    "material": 0,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0,
+            "name": "pineapple_Circle.004",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "extras": {
+                "background_color": [
+                    0.05087608844041824,
+                    0.05087608844041824,
+                    0.05087608844041824
+                ],
+                "frames_per_second": 24
+            },
+            "name": "Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ]
+}

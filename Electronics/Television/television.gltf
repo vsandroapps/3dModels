@@ -1,0 +1,218 @@
+{
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 466,
+            "max": [
+                0.3973965048789978,
+                0.5316327214241028,
+                0.015439978800714016
+            ],
+            "min": [
+                -0.3973965048789978,
+                -0.0008566525648348033,
+                -0.05619699880480766
+            ],
+            "name": "accessor_buffer_TV_01_Cube-Mesh_POSITION_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 180,
+            "max": [
+                464
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_TV_01_Cube-Mesh_0",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 288,
+            "max": [
+                465
+            ],
+            "min": [
+                1
+            ],
+            "name": "accessor_buffer_TV_01_Cube-Mesh_1",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 466,
+            "max": [
+                0.9999985694885254,
+                1.0,
+                0.9999986290931702
+            ],
+            "min": [
+                -0.9999985694885254,
+                -1.0,
+                -0.9999986290931702
+            ],
+            "name": "accessor_buffer_TV_01_Cube-Mesh_NORMAL_0",
+            "type": "VEC3"
+        }
+    ],
+    "asset": {
+        "copyright": "",
+        "generator": "blendergltf v1.2.0",
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 5592,
+            "byteOffset": 0,
+            "byteStride": 12,
+            "name": "bufferView_buffer_TV_01_Cube-Mesh_POSITION_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5592,
+            "byteOffset": 5592,
+            "byteStride": 12,
+            "name": "bufferView_buffer_TV_01_Cube-Mesh_NORMAL_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 364,
+            "byteOffset": 11184,
+            "name": "bufferView_buffer_TV_01_Cube-Mesh_0",
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 580,
+            "byteOffset": 11548,
+            "name": "bufferView_buffer_TV_01_Cube-Mesh_1",
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 12128,
+            "name": "buffer_television",
+            "uri": "buffer_television.bin"
+        }
+    ],
+    "materials": [
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "1A1A1A",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.08156879991292953,
+                    0.08156879991292953,
+                    0.08156879991292953,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "455A64",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.216470405459404,
+                    0.2823528051376343,
+                    0.3137255907058716,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "TV_01_Cube-Mesh",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 3,
+                        "POSITION": 0
+                    },
+                    "indices": 1,
+                    "material": 1,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 3,
+                        "POSITION": 0
+                    },
+                    "indices": 2,
+                    "material": 0,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0,
+            "name": "TV_01_Cube",
+            "rotation": [
+                0.0,
+                -0.9999992847442627,
+                0.0,
+                0.0012174404691904783
+            ],
+            "scale": [
+                0.9999998211860657,
+                1.0,
+                0.9999998211860657
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "extras": {
+                "background_color": [
+                    0.05087608844041824,
+                    0.05087608844041824,
+                    0.05087608844041824
+                ],
+                "frames_per_second": 24
+            },
+            "name": "Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ]
+}

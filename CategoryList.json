@@ -5,7 +5,7 @@
     "parentId": -1
   },
   {
-    "name": "Furniture",
+    "name": "Furniture & Fixtures",
     "id": 2,
     "parentId": -1
   },
@@ -20,7 +20,7 @@
     "parentId": -1
   },
   {
-    "name": "Laptops & Computers",
+    "name": "Laptops & Accessories",
     "id": 5,
     "parentId": 1
   },

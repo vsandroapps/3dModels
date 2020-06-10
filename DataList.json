@@ -932,7 +932,7 @@
   {
     "id": 13,
     "name": "Plant 2",
-    "gltf_url": "https://raw.githubusercontent.com/vsandroapps/3dModels/master/ar/plants/Flower_pot.gltf",
+    "gltf_url": "https://raw.githubusercontent.com/vsandroapps/3dModels/master/ar/plants/plant2.gltf",
     "model_url": "",
     "material_url": "",
     "texture_url": null,

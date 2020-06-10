@@ -944,5 +944,21 @@
     "price": 249,
     "discount": 10,
     "allowedPlains": 2
+  },
+  {
+    "id": 13,
+    "name": "Light Brown Table",
+    "gltf_url": "https://raw.githubusercontent.com/vsandroapps/3dModels/master/ar/furniture/table1/table1.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": null,
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 3,
+    "description": "Light Brown Table",
+    "price": 249,
+    "discount": 10,
+    "allowedPlains": 2
   }
 ]

@@ -960,5 +960,21 @@
     "price": 249,
     "discount": 10,
     "allowedPlains": 2
+  },
+  {
+    "id": 31,
+    "name": "Stool",
+    "gltf_url": "https://raw.githubusercontent.com/vsandroapps/3dModels/master/ar/furniture/stool/stool.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 2,
+    "description": "Stool",
+    "price": 4599,
+    "discount": 10,
+    "allowedPlains": 2
   }
 ]

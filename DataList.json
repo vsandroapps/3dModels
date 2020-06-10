@@ -928,5 +928,21 @@
     "price": 99,
     "discount": 10,
     "allowedPlains": 2
+  },
+  {
+    "id": 13,
+    "name": "Plant 2",
+    "gltf_url": "https://raw.githubusercontent.com/vsandroapps/3dModels/master/ar/plants/Flower_pot.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": null,
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 3,
+    "description": "Plant with pot",
+    "price": 249,
+    "discount": 10,
+    "allowedPlains": 2
   }
 ]

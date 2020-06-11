@@ -1011,7 +1011,7 @@
   },
   {
     "id": 66,
-    "name": "Old TV",
+    "name": "Toy Truck",
     "gltf_url": "https://raw.githubusercontent.com/vsandroapps/3dModels/master/ar/toys/toytruck/toytruck.gltf",
     "model_url": "https://www.turbosquid.com/3d-models/3d-i-zen-1399772",
     "material_url": "",
@@ -1020,14 +1020,14 @@
     "scale": 1,
     "ar_scale": 1,
     "category": 6,
-    "description": "Old TV",
+    "description": "Toy Truck",
     "price": 44999,
     "discount": 10,
     "allowedPlains": 2
   },
   {
     "id": 67,
-    "name": "Old TV",
+    "name": "Red Car",
     "gltf_url": "https://raw.githubusercontent.com/vsandroapps/3dModels/master/ar/toys/red_car/red_car.gltf",
     "model_url": "https://www.turbosquid.com/3d-models/racing-car-sport-max-free/1136183",
     "material_url": "",
@@ -1036,7 +1036,7 @@
     "scale": 1,
     "ar_scale": 1,
     "category": 13,
-    "description": "Old TV",
+    "description": "Red Car",
     "price": 44999,
     "discount": 10,
     "allowedPlains": 2

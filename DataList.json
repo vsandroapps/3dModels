@@ -1008,5 +1008,21 @@
     "price": 44999,
     "discount": 10,
     "allowedPlains": 2
+  },
+  {
+    "id": 66,
+    "name": "Old TV",
+    "gltf_url": "https://raw.githubusercontent.com/vsandroapps/3dModels/master/ar/toys/toytruck/toytruck.gltf",
+    "model_url": "https://www.turbosquid.com/3d-models/3d-i-zen-1399772",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 6,
+    "description": "Old TV",
+    "price": 44999,
+    "discount": 10,
+    "allowedPlains": 2
   }
 ]

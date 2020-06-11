@@ -1010,7 +1010,7 @@
     "allowedPlains": 2
   },
   {
-    "id": 38,
+    "id": 68,
     "name": "Refrigerator",
     "gltf_url": "https://raw.githubusercontent.com/vsandroapps/3dModels/master/ar/electronics/refrigerator/refrigerator.gltf",
     "model_url": "https://www.turbosquid.com/3d-models/free-rfa-mode-french-door-refrigerator/1067698",
@@ -1025,9 +1025,8 @@
     "discount": 10,
     "allowedPlains": 2
   },
-  ,
   {
-    "id": 38,
+    "id": 69,
     "name": "Microwave",
     "gltf_url": "https://raw.githubusercontent.com/vsandroapps/3dModels/master/ar/electronics/microwave/microwave.gltf",
     "model_url": "https://www.turbosquid.com/3d-models/free-microwave-blender-3d-model/669210",
@@ -1039,6 +1038,22 @@
     "category": 8,
     "description": "Microwave",
     "price": 11528,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+  {
+    "id": 70,
+    "name": "Espresso",
+    "gltf_url": "https://raw.githubusercontent.com/vsandroapps/3dModels/master/ar/electronics/expresso/espresso.gltf",
+    "model_url": "https://www.turbosquid.com/3d-models/espresso-machine-3d-model-1408871",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 8,
+    "description": "Espresso",
+    "price": 1152,
     "discount": 10,
     "allowedPlains": 2
   }

@@ -1040,5 +1040,21 @@
     "price": 44999,
     "discount": 10,
     "allowedPlains": 2
+  },
+  {
+    "id": 38,
+    "name": "Refrigerator",
+    "gltf_url": "https://raw.githubusercontent.com/vsandroapps/3dModels/master/ar/electronics/refrigerator/refrigerator.gltf",
+    "model_url": "https://www.turbosquid.com/3d-models/free-rfa-mode-french-door-refrigerator/1067698",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 8,
+    "description": "Refrigerator",
+    "price": 11528,
+    "discount": 10,
+    "allowedPlains": 2
   }
 ]

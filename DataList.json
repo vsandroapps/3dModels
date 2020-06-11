@@ -930,7 +930,7 @@
     "allowedPlains": 2
   },
   {
-    "id": 13,
+    "id": 61,
     "name": "Plant 2",
     "gltf_url": "https://raw.githubusercontent.com/vsandroapps/3dModels/master/ar/plants/plant2.gltf",
     "model_url": "",
@@ -946,7 +946,7 @@
     "allowedPlains": 2
   },
   {
-    "id": 13,
+    "id": 62,
     "name": "Light Brown Table",
     "gltf_url": "https://raw.githubusercontent.com/vsandroapps/3dModels/master/ar/furniture/table1/table1.gltf",
     "model_url": "",
@@ -962,7 +962,7 @@
     "allowedPlains": 2
   },
   {
-    "id": 31,
+    "id": 63,
     "name": "Stool",
     "gltf_url": "https://raw.githubusercontent.com/vsandroapps/3dModels/master/ar/furniture/stool/stool.gltf",
     "model_url": "",
@@ -974,6 +974,22 @@
     "category": 2,
     "description": "Stool",
     "price": 4599,
+    "discount": 10,
+    "allowedPlains": 2
+  },
+  {
+    "id": 64,
+    "name": "Sound Box",
+    "gltf_url": "https://raw.githubusercontent.com/vsandroapps/3dModels/master/ar/electronics/soundbox/soundbox.gltf",
+    "model_url": "https://www.turbosquid.com/3d-models/subwoofer-woofer-3d-model/527825",
+    "material_url": "",
+    "texture_url": "",
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 6,
+    "description": "Black Sound Box",
+    "price": 44999,
     "discount": 10,
     "allowedPlains": 2
   }

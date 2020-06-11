@@ -6,6 +6,11 @@
     "scene" : 0,
     "scenes" : [
         {
+            "extras" : {
+                "glTF2ExportSettings" : {
+                    "export_format" : "GLTF_SEPARATE"
+                }
+            },
             "name" : "Scene",
             "nodes" : [
                 0,

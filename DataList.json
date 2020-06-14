@@ -1056,5 +1056,21 @@
     "price": 1152,
     "discount": 10,
     "allowedPlains": 2
+  },
+  {
+    "id": 61,
+    "name": "Plant with Long Leaves",
+    "gltf_url": "https://raw.githubusercontent.com/vsandroapps/3dModels/master/ar/plants/indoorplant/plant1/plant1.gltf",
+    "model_url": "",
+    "material_url": "",
+    "texture_url": null,
+    "bin_url": "",
+    "scale": 1,
+    "ar_scale": 1,
+    "category": 3,
+    "description": "Plant with Long Leaves",
+    "price": 249,
+    "discount": 10,
+    "allowedPlains": 2
   }
 ]
